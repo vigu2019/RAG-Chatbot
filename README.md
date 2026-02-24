@@ -27,7 +27,7 @@ Unlike traditional chatbots, this system ensures responses are based strictly on
 ## 🚀 Live Demo
 
 🔗 Live App: *(Add your Streamlit link here)*
-🔗 GitHub Repository: *(Add your repo link here)*
+🔗 GitHub Repository: https://github.com/vigu2019/RAG-Chatbot/
 
 ---
 

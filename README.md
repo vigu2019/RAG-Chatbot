@@ -109,6 +109,10 @@ Structured Answer
 
 ---
 
+## Sample Output
+
+<img width="900" height="952" alt="image" src="https://github.com/user-attachments/assets/e2635acb-b903-42fc-aedc-da22f12b0051" />
+
 ## ⚠️ Limitations
 
 * Websites requiring heavy JavaScript rendering (e.g., Amazon) may block scraping.

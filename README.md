@@ -111,7 +111,12 @@ Structured Answer
 
 ## Sample Output
 
+Streamlit Output 
 <img width="900" height="952" alt="image" src="https://github.com/user-attachments/assets/e2635acb-b903-42fc-aedc-da22f12b0051" />
+
+Collab Output
+<img width="1701" height="536" alt="image" src="https://github.com/user-attachments/assets/782ce79c-16f7-4d47-9d3e-5e9ca8a6058b" />
+
 
 ## ⚠️ Limitations
 

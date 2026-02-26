@@ -1,9 +1,3 @@
-Good. We’ll make this look like a serious job-level project, not a college assignment.
-
-Copy this into your `README.md`.
-
----
-
 # 🤖 RAG Powered Website Chatbot
 
 Semantic Search • FAISS • Generative AI • Hybrid Mode
